@@ -1,4 +1,7 @@
 # Pranshi_Demo
 This is my Git Repository.
 <BR>
-Author - Pranshi Omer
+Author - Pranshi (Apna College)
+
+
+
